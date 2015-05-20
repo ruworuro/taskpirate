@@ -28,6 +28,8 @@ After that, you can just clone any taskpirate-enabled hook as a subfolder into ~
 
     git clone https://github.com/tbabej/task.default-date-time ~/.task/hooks/default-date-time/
 
+note: It is necessary that taskpirate scripts are in a subdirectory of ~/.task/hooks, otherwise it not will run
+
 How to write a taskpirate hook
 ------------------------------
 
